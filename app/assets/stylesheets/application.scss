@@ -104,16 +104,30 @@ body {
                 font-size: 14px;
                 font-weight: 600;
             }
+
+            input {
+                border: 1px solid #efefef;
+            }
+
+            .form-check-label {
+                padding: 0;
+                font-size: 15px;
+                color: #262626;
+            }
         }
 
-        input {
-            border: 1px solid #efefef;
-        }
-
-        .form-check-label {
-            padding: 0;
-            font-size: 15px;
-            color: #262626;
+        .brand-name-img {
+            margin: 22px auto 8px;
         }
     }
+
+    .redirect-links {
+        width: 350px;
+    }
+}
+
+footer .nav-item {
+    color: #003569 !important;
+    font-size: 12px;
+    font-weight: bold;
 }
