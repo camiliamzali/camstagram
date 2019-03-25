@@ -1,7 +1,17 @@
-# README
+# Camstagram
+Personal Home Project to practice Ruby
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+##Description
+This project is a clone of instagram using Ruby and Ruby on Rails. 
+
+##Technologies Used
+- Ruby
+- Ruby on Rails
+- mySQL
+- Javascript
+- jQuery
+- SCSS
+
 
 Things you may want to cover:
 
