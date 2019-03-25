@@ -1,10 +1,10 @@
 # Camstagram
 Personal Home Project to practice Ruby
 
-##Description
+## Description
 This project is a clone of instagram using Ruby and Ruby on Rails. 
 
-##Technologies Used
+## Technologies Used
 - Ruby
 - Ruby on Rails
 - mySQL
